@@ -1,1 +1,1 @@
-resource "null" "exec" {}
+resource "null_resource" "exec" {}
